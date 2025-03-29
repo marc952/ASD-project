@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\aliasFrontend",
+    "\\aliasFrontend\\public",
+    "\\aliasFrontend\\src",
+    "\\aliasServer"
+  ],
+  "SelectedNode": "\\aliasServer\\build.gradle.kts",
+  "PreviewInSolutionExplorer": false
+}
